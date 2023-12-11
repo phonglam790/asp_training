@@ -1,0 +1,38 @@
+﻿body {
+    font-family: Arial,sans-serif;
+    margin: 0px;
+    padding: 30px
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    border: 1px solid #9a0000;
+    margin-left: 20%;
+}
+
+.row-1 {
+    background-color: #fffdcc;
+    color: #c00000;
+}
+
+.row-2 {
+    background-color: #9a0000;
+    color: white;
+}
+
+.row-4 {
+    border-top: 1px solid #9a0000;
+}
+
+.row-4-col-2 {
+    color: #9d2260;
+}
+
+.form-row {
+    display: flex;
+}
+
+.form-column {
+    flex: 1;
+}

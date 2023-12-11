@@ -1,0 +1,27 @@
+﻿body {
+    font-family: Arial,sans-serif;
+    margin: 0px;
+    padding: 30px
+}
+
+table {
+    width: 30%;
+    border-collapse: collapse;
+    border: 2px solid #0a6f08;
+    margin-left: 20%;
+    color: #095c0f;
+}
+
+.row-1 {
+    border-bottom: 1px dashed #0a6f08;
+}
+
+.row-2 {
+    background-color: #ccfeb7;
+    text-align: center;
+}
+
+.label-hoten {
+    font-weight: bold;
+    font-style: italic;
+}

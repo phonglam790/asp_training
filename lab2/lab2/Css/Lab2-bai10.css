@@ -1,0 +1,31 @@
+﻿* {
+    font-family: Arial,sans-serif;
+    font-size: small;
+    margin: 0px;
+    padding: 30px
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    border: 1px solid #b87f1f;
+}
+
+td {
+    border: 1px solid #b87f1f;
+}
+
+.row-1 {
+    background-color: #fecc33;
+    color: #c00000;
+    border-bottom: 1px dashed #b87f1f;
+}
+
+.row-2 {
+    color: #fe6626;
+    border-bottom: 1px dashed #b87f1f;
+}
+
+.row-4 {
+    background-color: #fe9933;
+}

@@ -1,0 +1,39 @@
+﻿body {
+    font-family: Arial,sans-serif;
+    margin: 0px;
+    padding: 30px
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #008099;
+    width: 40%;
+}
+
+.row-1 {
+    color: #008099;
+}
+
+.row-2 {
+    background-color: #008099;
+    color: white;
+    padding: 5px;
+}
+
+.row-3 {
+    background-color: #008099;
+    color: white;
+    padding: 5px;
+}
+
+.row-4 {
+    background-color: #008099;
+    color: white;
+    padding: 5px;
+}
+
+.row-5 {
+    background-color: #008099;
+    color: white;
+    padding: 5px;
+}

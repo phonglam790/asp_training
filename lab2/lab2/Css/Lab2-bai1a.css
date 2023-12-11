@@ -1,0 +1,35 @@
+﻿body {
+    font-family: Arial,sans-serif;
+    margin: 0px;
+    padding: 30px
+}
+
+table {
+    width: 40%;
+    border-collapse: collapse;
+    border: 2px solid #5930ac;
+}
+
+table, th, td {
+    border: 2px solid #5930ac;
+}
+
+.row-1 {
+    border-bottom: 1px dashed #0a6f08;
+    color: #5930ac;
+    text-align: center;
+    font-weight: bold;
+    background-color: #fee4fe;
+}
+
+.row-2-col-2 {
+    color: #5930ac
+}
+
+.form-row {
+    display: flex;
+}
+
+.form-column {
+    flex: 1;
+}

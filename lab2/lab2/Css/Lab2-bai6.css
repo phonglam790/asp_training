@@ -1,0 +1,25 @@
+﻿body {
+    font-family: Arial,sans-serif;
+    margin: 0px;
+    padding: 30px
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #010817;
+    width: 40%
+}
+
+table, th, td {
+    border: 2px solid #010817;
+}
+
+.row-1 {
+    background-color: #3266cc;
+    color: white;
+    text-align: center;
+}
+
+.row-3 {
+    text-align: center;
+}
